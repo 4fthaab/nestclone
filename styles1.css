@@ -1,0 +1,41 @@
+.btn.btn-primary {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    width: 200px;
+    background-color: rgb(25, 13, 76);
+}
+
+.btn.btn-secondary {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:smaller;
+    width: 100px;
+    background-color: rgb(13, 70, 76);
+}
+
+#businessUnitsSection {
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 95%;
+    background-color: rgb(26, 26, 89);
+    margin: auto;
+}
+
+.card-text {
+    font-size: x-small;
+    text-align: justify;
+}
+
+.image-section {
+    background-size: cover;
+    min-height: 400px;
+    clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+
+.text-section {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+}

@@ -1,0 +1,49 @@
+.btn.btn-primary {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    width: 200px;
+    background-color: rgb(25, 13, 76);
+}
+
+.btn.btn-secondary {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:smaller;
+    width: 100px;
+    background-color: rgb(13, 70, 76);
+}
+
+#businessUnitsSection {
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 95%;
+    background-color: rgb(26, 26, 89);
+    margin: auto;
+}
+
+.card-text {
+    font-size: x-small;
+    text-align: justify;
+}
+
+.carousel-item img {
+    max-height: fit-content;
+    transition: transform 5s ease-in-out;
+}
+
+.carousel-item.active img {
+    transform: scale(1.1);
+}
+#achievements {
+    background-color: rgb(229, 229, 229);
+    margin: auto;
+    max-width: 90%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    max-height: fit-content;
+    background-color: rgb(7, 7, 139);
+}
